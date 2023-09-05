@@ -14,4 +14,4 @@ Note : Your first build might require an internet connection to
 download library deps.
 
 # license
-This is licensed under the Creative commons. See the LICENSE file.
+This is licensed under the Creative commons zero license. See the LICENSE file.
