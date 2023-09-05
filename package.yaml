@@ -1,7 +1,7 @@
 name:                myproj
 version:             0.1.0.0
 github:              "MRandl/myproj"
-license:             BSD3
+license:             PublicDomain
 author:              "Mathis Randl"
 maintainer:          "mathis.randl@epfl.ch"
 copyright:           "Mathis Randl"
