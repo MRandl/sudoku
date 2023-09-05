@@ -1,4 +1,4 @@
-# Changelog for `myproj`
+# Changelog for `sudoku`
 
 All notable changes to this project will be documented in this file.
 
